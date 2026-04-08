@@ -2,31 +2,25 @@
 
 Maze Solving Algorithm Comparisons & Experimental Designs between BFS, AStar, and ACO.
 
-
 <ins>**Team Members:**<ins> 
 
 Nicolas Stamper, Elliot Lindsey
-
 
 <ins>**Problem Description:**<ins> 
 
 Finding the shortest possible path from a starting position to an ending position within a graph of vertices with weighted edges to represent path lengths.
 
-
 <ins>**Algorithms Implemented:**<ins> 
 
 Breadth-First Search (BFS), AStar Search, Ant Colony Optimization (ACO).
-
 
 <ins>**Dataset(s) Used:**<ins>
 
 Synthetically Generated Dataset(s).
 
-
 <ins>**How To Run:**<ins>
 
 To run the AStar Search, download all five "ASTAR" python files from the code section. Create a folder with all files, and then go into VS Code and open that folder. Open up all five python files in VS Code, go to the "ASTARmaindriver.py" file, and press the run button in VS Code. Dependencies needed include matplotlib (pip install matplotlib), pandas (pip install pandas), and numpy (pip install numpy).
-
 
 <ins>**GenAI Usage Disclosure:**<ins>
 
