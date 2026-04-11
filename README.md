@@ -20,7 +20,7 @@ Synthetically Generated Dataset(s).
 
 <ins>**How To Run:**<ins>
 
-Place all Python files in the code directory into a folder. Open that folder in Visual Studio Code. Go to the main.py file. Press the run button (top left play icon in Visual Studio Code). The graphs will appear as png files in the folder when it finishes running.
+Place all Python files in the code directory into a folder. Open that folder in Visual Studio Code. Go to the main.py file. Press the run button (top left play icon in Visual Studio Code). The graphs will appear as png files in the folder when it finishes running, and the results will appear in the terminal.
 
 <ins>**GenAI Usage Disclosure:**<ins>
 
