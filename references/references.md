@@ -1,4 +1,4 @@
-Algorithm Research
+**Algorithm Research**
 
 GeeksforGeeks — Breadth-First Search
 - Used to research how BFS works and its application to graph/maze traversal.
@@ -26,7 +26,7 @@ Wikipedia — Best-First Search
 
 
 
-Tools and AI Assistance
+**Tools and AI Assistance**
 
 ChatGPT (OpenAI)
 - Used for debugging code issues, resolving errors, and guidance on organizing experiments and visualizations.
@@ -40,7 +40,7 @@ Claude (Anthropic)
 
 
 
-Python Libraries
+**Python Libraries**
 
 Python 'heapq' module 
 - Used to implement the priority queue in A* and GBFS.
